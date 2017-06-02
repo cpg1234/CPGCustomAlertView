@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "CPGCustomAlertView"
   s.version      = "1.0.1"
-  s.summary      = "一个自定义的alertView支持文本展示提示框。"
+  s.summary      = "一个自定义的alertView,支持文本展示提示框。"
   s.description  = <<-DESC
 		一个自定义的alertView，支持文本展示
                    DESC
