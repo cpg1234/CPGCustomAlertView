@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.1"
   s.summary      = "一个自定义的alertView,支持文本展示提示框。"
   s.description  = <<-DESC
-		一个自定义的alertView，支持文本展示
+		一个自定义的alertView，支持文本显示提示框，多文本可以进行滑动
                    DESC
 
   s.homepage     = "https://github.com/cpg1234/CPGCustomAlertView"
